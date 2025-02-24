@@ -1,6 +1,6 @@
 
 # Code Kotliners Inc.
-Welcome to the official GitHub organization of Code Kotliners Inc., a collaborative initiative by students from VK and BMSTU (Bauman Moscow State Technical University). We are passionate about coding, innovation, and building awesome projects using Kotlin and other modern technologies.
+Welcome to the official GitHub organization of Code Kotliners Inc., a collaborative initiative by students from VK Education and BMSTU (Bauman Moscow State Technical University). We are passionate about coding, innovation, and building awesome projects using Kotlin and other modern technologies.
 
 ## 🚀 About Us
 

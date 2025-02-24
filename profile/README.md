@@ -1,5 +1,5 @@
 
-## Code Kotliners Inc.
+# Code Kotliners Inc.
 Welcome to the official GitHub organization of Code Kotliners Inc., a collaborative initiative by students from VK (VKontakte) and BMSTU (Bauman Moscow State Technical University). We are passionate about coding, innovation, and building awesome projects using Kotlin and other modern technologies.
 
 ## 🚀 About Us
@@ -38,7 +38,7 @@ Explore our repositories to see what we're building!
 - **[Valery Mitioglo](https://github.com/val3rkq)**
   A brief description or role of the team member.
 
-🤝 How to Contribute
+## 🤝 How to Contribute
 We welcome contributions from the community! If you're interested in joining us or contributing to our projects, follow these steps:
 
 1. Fork the repository you want to contribute to.

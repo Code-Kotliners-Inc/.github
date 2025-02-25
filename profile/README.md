@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/2da27d15-477f-473a-94d0-2f7f35a59955)
 
 # Code Kotliners Inc.
 Welcome to the official GitHub organization of Code Kotliners Inc., a collaborative initiative by students from VK Education and BMSTU (Bauman Moscow State Technical University). We are passionate about coding, innovation, and building awesome projects using Kotlin and other modern technologies.
